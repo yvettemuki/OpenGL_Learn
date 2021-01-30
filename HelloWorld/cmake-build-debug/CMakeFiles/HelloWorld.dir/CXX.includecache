@@ -13,6 +13,8 @@ glfw3.h
 -
 iostream
 -
+cmath
+-
 
 /usr/local/Cellar/glfw/3.3.2/include/GLFW/glfw3.h
 stddef.h
