@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yvettemuki/Documents/code/OpenGL/HelloWorld/main.cpp
+glew.h
+-
+glfw3.h
+-
+iostream
+-
+
